@@ -8,8 +8,8 @@ Dus bijgaand een user-script dat dit voor je regelt.
 # Korte how to
 
 1. installeer een van de vele user-script browser extensies (https://chrome.google.com/webstore/search/user%20javascript?hl=nl of gelijkwaardig voor Firefox)
-2. voeg bijgaande js code toe als user script op de website https://www.ov-chipkaart.nl/
-3. Zorg dat de extensie jquery toevoegd aan de pagina, dit verschilt per extensie
+2. voeg, via de extensie, bijgaande js code toe als user script op de website https://www.ov-chipkaart.nl/
+3. Zorg dat de extensie jquery toevoegt aan de pagina, dit verschilt per extensie
 4. Login op https://www.ov-chipkaart.nl/
 
 Als het goed is zie je nu twee zaken:
