@@ -1,7 +1,7 @@
 # toon-saldo-op-ov-chipkaart
 User script dat het saldo van je ov chipkaart direct op je mijn-ov-chip toont
 
-Mijn grote ergenis, naast alle andere ergenissen die ik met de ov chopkaart heb, is dat je op de mijn-ov-chip website niet direct je saldo ziet, maar helemaal naar beneden moet scrollen om dan op een onopvallende 'Saldo checken' link moet klikken. Welke pinda heeft bedacht dat dit handig is?
+Mijn grote ergenis, naast alle andere ergenissen die ik met de ov chipkaart heb, is dat je op de mijn-ov-chip website niet direct je saldo ziet, maar helemaal naar beneden moet scrollen om dan op een onopvallende 'Saldo checken' link moet klikken. Welke pinda heeft bedacht dat dit handig is?
 
 Dus bijgaand een user-script dat dit voor je regelt.
 
