@@ -5,7 +5,7 @@ Mijn grote ergenis, naast alle andere ergenissen die ik met de ov chopkaart heb,
 
 Dus bijgaand een user-script dat dit voor je regelt.
 
-#Korte how to
+# Korte how to
 
 1. installeer een van de vele user-script browser extensies (https://chrome.google.com/webstore/search/user%20javascript?hl=nl of gelijkwaardig voor Firefox)
 2. voeg bijgaande js code toe als user script op de website https://www.ov-chipkaart.nl/
