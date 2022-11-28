@@ -28,7 +28,7 @@ if ('undefined' == typeof window.jQuery) {
 				
 				$("ol#ol_cardselector li.list-group-item").each(function(index, element ) {
 					//parse the card info:
-					var hashed = $("div.cs-card-title-content span.cs-card-number").data("hashed");
+					var hashed = $("span.cs-card-number", element).data("hashed");
 					console.log("hashed: ", hashed);
 					if (!hashed) {
 						console.warn("No hashed value found for entry " + index);
