@@ -23,7 +23,7 @@ if ('undefined' == typeof window.jQuery) {
 				console.log(saldoInfo);
 				
 				saldoInfo.css("visibility", "visible");
-				$("li:first", saldoInfo).addClass("active");		//?????
+				//$("li", saldoInfo).addClass("active");		//?????
 				$( saldoInfo ).prependTo("div#content > div");
 				
 				$("ol#ol_cardselector li.list-group-item").each(function(index, element ) {
