@@ -5,6 +5,8 @@ Mijn grote ergenis, naast alle andere ergenissen die ik met de ov chipkaart heb,
 
 Dus bijgaand een user-script dat dit voor je regelt.
 
+Recent bijgewerkt voor de vernieuwde website van ov chip.
+
 # Korte how to
 
 1. installeer een van de vele user-script browser extensies (https://chrome.google.com/webstore/search/user%20javascript?hl=nl of gelijkwaardig voor Firefox)
